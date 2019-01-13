@@ -1,0 +1,13 @@
+128.14.133.54 bt.avbt123.com
+208.83.20.20 exodus.desync.com
+51.15.40.114 ipv4.tracker.harry.lu
+185.53.179.8 torrent-download.to
+194.106.216.222 tracker.ex.ua
+141.255.161.22 tracker.openbittorrent.com
+37.187.96.78 eddie4.nl
+128.14.133.54 tracker.1zy.io
+212.47.240.70 sukebei.tracker.wf
+91.121.145.207 anidex.moe
+185.83.215.123 tracker.uw0.xyz
+94.100.28.56 ehtracker.org
+51.15.4.13 tracker.opentrackr.org

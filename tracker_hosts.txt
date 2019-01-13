@@ -11,3 +11,9 @@
 185.83.215.123 tracker.uw0.xyz
 94.100.28.56 ehtracker.org
 51.15.4.13 tracker.opentrackr.org
+62.138.0.158 tracker.coppersurfer.tk
+185.225.17.100 tracker.internetwarriors.net
+51.15.4.13 tracker.opentrackr.org
+151.80.120.113 9.rarbg.to
+208.83.20.20 exodus.desync.com
+184.105.151.164 explodie.org

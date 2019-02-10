@@ -146,3 +146,7 @@ udp://tracker.ex.ua:80/announce
 http://pubt.net:2710/announce
 http://tracker.tfile.me/announce
 udp://bt.sc-ol.com:2710/announce
+http://tracker.acgsou.com:2710/announce
+http://tracker.acgsou.com:2710/scrape
+http://www.acgsou.com:2710/announce
+http://tracker.acgsou.com:2710/announce

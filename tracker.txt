@@ -149,4 +149,10 @@ udp://bt.sc-ol.com:2710/announce
 http://tracker.acgsou.com:2710/announce
 http://tracker.acgsou.com:2710/scrape
 http://www.acgsou.com:2710/announce
-http://tracker.acgsou.com:2710/announce
+udp://tracker.gbitt.info:80/announce
+http://announce.xxx-tracker.com:2710/announce
+http://tracker1.wasabii.com.tw:6969/announce
+http://www.megatorrents.kg/announce.php
+http://tracker.etree.org:6969/announce
+http://nethd.org/announce.php
+https://tracker.hdcmct.org/announce.php

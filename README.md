@@ -1,0 +1,1 @@
+# 本项目收集了中国大陆大部分acg bt网站的tracker以及一些其他bt网站的tracker

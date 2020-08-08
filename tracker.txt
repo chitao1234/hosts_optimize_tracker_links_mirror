@@ -127,7 +127,7 @@ http://pow7.com/announce
 http://prestige.minimafia.nl:443/announce
 http://private.minimafia.nl:443/announce
 http://proaudiotorrents.org/announce.php
-http://pt.msg.vg/announce.php?passkey=116eea82c1baf6ba61d63be9de840dc4
+http://pt.msg.vg/announce.php
 http://pubt.in:80/announce
 http://pubt.in/announce
 http://retracker.hotplug.ru:2710/announce
@@ -286,7 +286,8 @@ http://tracker.dutchtracking.nl/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.edkj.club:8080/announce
 http://tracker.electro-torrent.pl:80/announce
-http://tracker.electro-torrent.pl:80/announcehttp://tracker.ipv6tracker.ru:80/announce
+http://tracker.electro-torrent.pl:80/announce
+http://tracker.ipv6tracker.ru:80/announce
 http://tracker.electro-torrent.pl/announce
 http://tracker.etree.org:6969/announce
 http://tracker.fdn.fr:6969/announce
@@ -671,7 +672,8 @@ udp://www.loushao.net:8080/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
-udp://zer0day.to:1337/announcehttp://tracker1.itzmx.com:8080/announce
+udp://zer0day.to:1337/announce
+http://tracker1.itzmx.com:8080/announce
 udp://z.mercax.com:53/announce
 wss://hub.bugout.link:443/announce
 wss://open.tube:443/tracker/socket

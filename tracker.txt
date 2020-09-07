@@ -1,3 +1,4 @@
+
 http://00.mercax.com:443/announce
 http://0123456789nonexistent.com:80/announce
 http://0123456789nonexistent.com/announce
@@ -467,7 +468,6 @@ udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4.tracker.harry.lu/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://josueunhuit.com:6969/announce

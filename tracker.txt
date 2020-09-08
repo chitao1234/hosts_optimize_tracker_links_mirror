@@ -39,6 +39,7 @@ http://52.58.128.163:6969/announce
 http://54.37.106.164/announce
 http://54.39.179.91:6699/announce
 http://54.39.98.124/announce
+http://62.210.202.61:80/announce
 http://62.210.202.61/announce
 http://78.30.254.12:2710/announce
 http://87.110.238.140:6969/announce
@@ -109,6 +110,7 @@ http://open.touki.ru/announce.php
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se/announce
 http://opentracker.i2p.rocks:6969/announce
+http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
 http://p4p.arenabg.com:1337/announce
 http://pow7.com:80/announce
@@ -158,6 +160,7 @@ https://open.kickasstracker.com:443/announce
 https://open.kickasstracker.com/announce
 https://opentracker.acgnx.se:443/announce
 https://opentracker.acgnx.se/announce
+https://opentracker.xyz/announce
 https://publictracker.pp.ua:443/announce
 https://publictracker.pp.ua/announce
 https://seeders-paradise.org/announce
@@ -173,6 +176,7 @@ https://tracker.bt-hash.com:443/announce
 https://tracker.bt-hash.com/announce
 https://tracker.coalition.space:443/announce
 https://tracker.coalition.space/announce
+https://tracker.cryental.dev:443/announce
 https://tracker.ecdn.icu:8443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gbitt.info/announce
@@ -212,8 +216,10 @@ https://tr.steins-gate.moe:2096/announce
 http://sukebei.tracker.wf:8888/announce
 https://w.wwwww.wtf:443/announce
 https://w.wwwww.wtf/announce
+http://t1.leech.ie:80/announce
 http://t1.pow7.com:80/announce
 http://t1.pow7.com/announce
+http://t2.leech.ie:80/announce
 http://t2.pow7.com:80/announce
 http://t2.pow7.com/announce
 http://t.acg.rip:6699/announce
@@ -466,13 +472,13 @@ udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4.tracker.harry.lu/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://koli.services:6969/announce
+udp://letting.cf:26327/announce
 udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.realliferpg.de:6969/announce
@@ -480,7 +486,6 @@ udp://mgtracker.org:2710/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
@@ -546,6 +551,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
 udp://tracker.blazing.de/announce
+udp://tracker.btsync.gq:233/announce
 udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.dler.org:6969/announce

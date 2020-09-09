@@ -39,7 +39,6 @@ http://52.58.128.163:6969/announce
 http://54.37.106.164/announce
 http://54.39.179.91:6699/announce
 http://54.39.98.124/announce
-http://62.210.202.61:80/announce
 http://62.210.202.61/announce
 http://78.30.254.12:2710/announce
 http://87.110.238.140:6969/announce
@@ -347,6 +346,7 @@ http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://vps02.net.orel.ru/announce
 http://vps2.avc.cx:7171/announce
+http://wegkxfcivgx.chickenkiller.com:80/announce
 http://www.loushao.net:8080/announce
 http://www.mvgroup.org:2710/announce
 http://www.tvnihon.com:6969/announce
@@ -478,7 +478,6 @@ udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
 udp://kanbooru.com:6969/announce
 udp://koli.services:6969/announce
-udp://letting.cf:26327/announce
 udp://line-net.ru:6969/announce
 udp://ln.mtahost.co:6969/announce
 udp://mail.realliferpg.de:6969/announce
@@ -486,6 +485,7 @@ udp://mgtracker.org:2710/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce

@@ -8,7 +8,6 @@ http://62.210.202.61:80/announce
 http://78.30.254.12:2710/announce
 http://91.217.91.21:3218/announce
 http://aaa.army:8866/announce
-http://ankeschwarz.net:6969/announce
 http://atrack.pow7.com:80/announce
 http://beertracker.ml:80/announce
 http://bobbialbano.com:6969/announce
@@ -196,6 +195,7 @@ udp://mgtracker.org:2710/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
+udp://ns-1.x-fins.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.lolicon.eu:7777/announce
@@ -227,7 +227,6 @@ udp://t2.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
-udp://t.lint2.com:9000/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker.0x.tf:6969/announce

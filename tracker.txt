@@ -1,3 +1,4 @@
+http://104.238.198.186:8000/announce
 http://1337.abcvg.info:80/announce
 http://178.175.143.27:80/announce
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
@@ -7,7 +8,6 @@ http://62.210.202.61:80/announce
 http://78.30.254.12:2710/announce
 http://91.217.91.21:3218/announce
 http://aaa.army:8866/announce
-http://ankeschwarz.net:6969/announce
 http://atrack.pow7.com:80/announce
 http://bobbialbano.com:6969/announce
 http://bt.pusacg.org:8080/announce
@@ -42,6 +42,7 @@ https://tracker.nitrix.me:443/announce
 https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 https://trakx.herokuapp.com:443/announce
+https://tr.ready4.icu:443/announce
 https://w.wwwww.wtf:443/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
@@ -73,13 +74,10 @@ http://tracker.skyts.cn:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.sloppyta.co:80/announce
 http://tracker.trackerfix.com:80/announce
-http://tracker.uw0.xyz:6969/announce
 http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
-http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
 http://tr.cili001.com:8070/announce
-http://tr.kxmp.cf:80/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
 http://vps02.net.orel.ru:80/announce
@@ -193,13 +191,11 @@ udp://mgtracker.org:2710/announce
 udp://movies.zsw.ca:6969/announce
 udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://ns389251.ovh.net:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://p4p.arenabg.ch:1337/announce
 udp://p4p.arenabg.com:1337/announce
@@ -297,6 +293,5 @@ udp://vps2.avc.cx:7171/announce
 udp://wassermann.online:6969/announce
 udp://www.midea123.z-media.com.cn:6969/announce
 udp://zephir.monocul.us:6969/announce
-udp://zer0day.ch:1337/announce
-udp://zer0day.to:1337/announceudp://zephir.monocul.us:6969/announce
+udp://zer0day.ch:1337/announceudp://zephir.monocul.us:6969/announce
 udp://z.mercax.com:53/announce

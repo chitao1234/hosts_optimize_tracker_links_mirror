@@ -63,7 +63,6 @@ http://novaopcj.icu:10325/announce
 http://ns349743.ip-91-121-106.eu:80/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
-http://open.acgtracker.com:1096/announce
 http://open.touki.ru:80/announce.php
 http://opentracker.i2p.rocks:6969/announce
 http://potuk.com:2710/announce
@@ -363,7 +362,6 @@ udp://handrew.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://josueunhuit.com:6969/announce
 udp://kanal-4.de:6969/announce
@@ -413,6 +411,7 @@ udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
 udp://t.lint2.com:9000/announce
 udp://torrent.tdjs.tech:6969/announce
+udp://tr1.jilangyy.com:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker1.itzmx.com:8080/announce
@@ -437,7 +436,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ds.is:6969/announce
 udp://tracker.dyne.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce
-udp://tracker.e-utp.net:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.flashtorrents.org:6969/announce

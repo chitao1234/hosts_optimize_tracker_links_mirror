@@ -333,6 +333,7 @@ udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://bt.firebit.org:2710/announce
 udp://btt.royalquest.ru:2710/announce
+udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
@@ -362,7 +363,6 @@ udp://handrew.me:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://inferno.demonoid.pw:3418/announce
 udp://ipv4.tracker.harry.lu:80/announce
-udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://josueunhuit.com:6969/announce
 udp://jsb.by:8000/announce
@@ -411,7 +411,6 @@ udp://t2.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
-udp://t.lint2.com:9000/announce
 udp://torrent.tdjs.tech:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker.0x.tf:6969/announce

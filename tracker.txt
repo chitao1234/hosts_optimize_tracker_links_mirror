@@ -1,9 +1,28 @@
+              <a href="https://search.torrents.io/Yara 2018:1337x" id="273" title="Search torrents on 1337x"
+              <a href="https://search.torrents.io/Yara 2018:limetorrents" id="1099" title="Search torrents on LimeTorrents"
+              <a href="https://search.torrents.io/Yara 2018:pirate-bay" id="9" title="Search torrents on Pirate Bay"
+              <a href="https://search.torrents.io/Yara 2018:rarbg" id="127" title="Search torrents on RARBG"
+              <a href="https://search.torrents.io/Yara 2018:torrent-downloads" id="1301" title="Search torrents on Torrent Downloads"
+              <a href="https://search.torrents.io/Yara 2018:torrentseeker" id="2268" title="Search torrents on Torrentseeker"
+              <a href="https://search.torrents.io/Yara 2018:torrentz2" id="2530" title="Search torrents on Torrentz2"
+              <a href="https://search.torrents.io/Yara 2018:zooqle" id="2548" title="Search torrents on Zooqle"
+            <a href="https://torrents.io/settings/" rel="nofollow" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('send', 'event', 'Feature', 'click', 'Search settings link');" data-cf-modified-513861e020484757a09133f5-="">Customize Search Sites</a>
+                data-name="1337x" data-proxy="https://1337x.is" data-url="https://1337x.to" data-search-url="srch?search=@@s@@" rel="nofollow">
+                data-name="limetorrents" data-proxy="https://limetorrents.unblockit.ca" data-url="https://www.limetorrents.info" data-search-url="search/all/@@s@@/" rel="nofollow">
+                data-name="pirate-bay" data-proxy="https://pirateproxy.lat" data-url="https://pirateproxy.cam" data-search-url="search/@@s@@" rel="nofollow">
+                data-name="rarbg" data-proxy="https://rarbgmirror.com" data-url="https://rarbg.to" data-search-url="torrents.php?search=@@s@@" rel="nofollow">
+                data-name="torrent-downloads" data-proxy="https://torrentdownloads.unblocked.win" data-url="https://torrentdownloads.me" data-search-url="search/?search=@@s@@" rel="nofollow">
+                data-name="torrentseeker" data-proxy="" data-url="https://torrentseeker.com" data-search-url="search.php?q=@@s@@" rel="nofollow">
+                data-name="torrentz2" data-proxy="https://torrentz2.is" data-url="https://torrentz2.eu" data-search-url="search?f=@@s@@" rel="nofollow">
+                data-name="zooqle" data-proxy="https://zooqle.unblocked.win" data-url="https://zooqle.com/" data-search-url="search?q=@@s@@" rel="nofollow">
+        <div class="logo-s"><a href="https://torrents.io"><img src="https://torrents.io/theme/assets/img/logo-s.png" alt="torrents" /></a></div>
+          <form method="POST" action="https://search.torrents.io/Yara 2018:" class="nav-search-form">
 http://1337.abcvg.info:80/announce
-http://159.69.49.29:5181/announce
 http://176.113.68.67:6961/announce
 http://176.113.71.60:6961/announce
 http://178.175.143.27:80/announce
 http://178.248.247.244:6969/announce
+http://183.222.243.252:8080/announce
 http://184.105.151.164:6969/announce
 http://192.151.157.106:6969/announce
 http://195.201.31.194:80/announce
@@ -11,29 +30,27 @@ http://198.251.80.84:6969/announce
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2001:470:1:189:0:1:2:3]:6969/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
-http://49.12.113.1:8866/announce
 http://51.81.46.170:6969/announce
 http://54.39.179.91:6699/announce
 http://60-fps.org:80/bt/announce.php
 http://78.30.254.12:2710/announce
-http://93.158.213.92:1337/announce
+http://91.217.91.21:3218/announce
 http://95.107.48.115:80/announce
-http://95.216.193.135:6969/announce
-http://95.217.25.212:80/announce
 http://aaa.army:8866/announce
 http://all4nothin.net/announce.php
 http://alltorrents.net:80/bt/announce.php
+http://anidex.moe:6969/announce
 http://atrack.pow7.com:80/announce
 http://baibako.tv/announce
 http://beertracker.ml:80/announce
-http://bithq.org/announce.php
 http://blackz.ro/announce.php
 http://bluebird-hd.org/announce.php
 http://bobbialbano.com:6969/announce
+http://bt2.54new.com:8080/announce
 http://bt2.edwardk.info:6969/announce
 http://bt.3dmgame.com:2710/announce
 http://bt.3kb.xyz:80/announce
-http://bt.ali213.net:8000/announce
+http://bt.ali213.net:8080/announce
 http://bt.edwardk.info:6969/announce
 http://bt.pusacg.org:8080/announce
 http://bttracker.debian.org:6969/announce
@@ -41,7 +58,6 @@ http://bt-tracker.gamexp.ru:2710/announce
 http://bt.unionpeer.org:777/announce
 http://btx.anifilm.tv:80/announce.php
 http://bt.zlofenix.org:81/announce
-http://concen.org:6969/announce
 http://data-bg.net/announce.php
 http://derpyradio.net:6969/announce
 http://elitezones.ro/announce.php
@@ -55,9 +71,9 @@ http://irrenhaus.dyndns.dk:80/announce.php
 http://jsb.by:8000/announce
 http://kinorun.com/announce.php
 http://masters-tb.com/announce.php
-http://mediaclub.tv/announce
+http://mediaclub.tv/announce.php
 http://milliontorrent.pl/announce.php
-http://mixfiend.com:6969/announce
+http://mixfiend.com/announce.php
 http://music-torrent.net:2710/announce
 http://mvgroup.org:2710/announce
 http://novaopcj.icu:10325/announce
@@ -66,7 +82,7 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.touki.ru:80/announce.php
-http://open.touki.ru/announce
+http://open.touki.ru/announce.php
 http://opentracker.i2p.rocks:6969/announce
 http://potuk.com:2710/announce
 http://pow7.com:80/announce
@@ -85,10 +101,11 @@ http://siambit.com/announce.php
 https://open.kickasstracker.com:443/announce
 https://opentracker.acgnx.se:443/announce
 https://publictracker.pp.ua:443/announce
-https://torrents.linuxmint.com:443/announce.php
+https://t2.leech.ie:443/announce
 https://torrent.ubuntu.com/announce
 https://tracker6.lelux.fi:443/announce
 https://tracker.bt-hash.com:443/announce
+https://tracker.cryental.dev:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.hama3.net:443/announce
 https://tracker.imgoingto.icu:443/announce
@@ -99,7 +116,9 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.torrentsnows.com:443/announce
 https://trakx.herokuapp.com:443/announce
+https://tr.bangumi.moe:9696/announce
 https://tr.ready4.icu:443/announce
+http://sukebei.tracker.wf:8888/announce
 https://w.wwwww.wtf:443/announce
 http://t1.pow7.com:80/announce
 http://t2.pow7.com:80/announce
@@ -112,6 +131,7 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.mp3quran.net:80/announce.php
 http://torrent.resonatingmedia.com:6969/announce
 http://torrent.rus.ec:2710/announce
+http://torrents.linuxmint.com:80/announce.php
 http://torrentsmd.com:8080/announce
 http://torrents-nn.cn:2710/announce
 http://torrent-team.net/announce.php
@@ -122,9 +142,8 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 http://tracker3.dler.org:2710/announce
 http://tracker3.itzmx.com:6961/announce
+http://tracker3.itzmx.com:8080/announce
 http://tracker4.dler.org:6969/announce
-http://tracker4.itzmx.com:2710/announce
-http://tracker4.itzmx.com:6961/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anonwebz.xyz:8080/announce
 http://tracker.baltracker.net:3390/announce
@@ -133,18 +152,18 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
-http://tracker.darli.net:5181/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.etree.org:6969/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.files.fm:6969/announce
-http://tracker.frozen-layer.net:6969/announce.php
+http://tracker.frozen-layer.net:6969/announce
 http://tracker.funfile.org:2710/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
 http://tracker.ipv6tracker.ru:80/announce
+http://tracker.kali.org:6969/announce
 http://tracker.kamigami.org:2710/announce
 http://tracker.kuroy.me:5944/announce
 http://tracker.lelux.fi:80/announce
@@ -162,14 +181,14 @@ http://tracker.tambovnet.org/announce.php
 http://tracker.tasvideos.org:6969/announce
 http://tracker.tntvillage.scambioetico.org:2710/announce
 http://tracker.torrentleech.org:2710/announce
+http://tracker.torrentyorg.pl:80/announce
 http://tracker.trackerfix.com:80/announce
 http://tracker.tricitytorrents.com:2710/announce
 http://tracker.uw0.xyz:6969/announce
 http://tracker.xdvdz.com:2710/announce
+http://tracker.ygsub.com:6969/announce
 http://tracker.yoshi210.com:6969/announce
-http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zum.bi:6969/announce
-http://tr.bangumi.moe:6969/announce
 http://tr.cili001.com:8070/announce
 http://trun.tom.ru:80/announce
 http://vpn.flying-datacenter.de:6969/announce
@@ -178,12 +197,12 @@ http://vps2.avc.cx:7171/announce
 http://www.all4nothin.net/announce.php
 http://www.bitseduce.com/announce.php
 http://www.biztorrents.com/announce.php
+http://www.blackcats-games.net:2228/announce
 http://www.elitezones.ro/announce.php
 http://www.freerainbowtables.com:6969/announce
-http://www.loushao.net:8080/announce
+http://www.legittorrents.info:80/announce.php
 http://www.thegeeks.bz:3210/announce
 http://www.theplace.bz:2910/announce
-http://www.thetradersden.org/forums/tracker/announce.php
 http://www.tribalmixes.com/announce.php
 http://www.tvnihon.com:6969/announce
 http://www.wareztorrent.com:80/announce
@@ -191,6 +210,30 @@ http://www.worldboxingvideoarchive.com/announce.php
 http://www.xwt-classics.net/announce.php
 http://www.yuwabits.net/announce.php
 http://www.zone-torrent.net:80/announce.php
+          <iframe class="target-site-frame" src="https://torrentseeker.com/search.php?q=Yara 2018"></iframe>
+                        <li class="add-more-link"><a href="https://torrents.io/settings/" rel="nofollow" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('send', 'event', 'Feature', 'click', 'Add torrent sites');" data-cf-modified-513861e020484757a09133f5-="">Add torrent sites</a></li>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
+	<link rel="icon" type="image/png" href="https://torrents.io/theme/assets/img/favicon.png">
+<link rel='stylesheet' id='category-css'  href='https://torrents.io/theme/assets/css/category.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='das-css'  href='https://torrents.io/theme/assets/css/das.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fdn-css'  href='https://torrents.io/theme/assets/css/fdn.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='frontpage-css'  href='https://torrents.io/theme/assets/css/frontpage.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='global-css'  href='https://torrents.io/theme/assets/css/global.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='head-foot-css'  href='https://torrents.io/theme/assets/css/head-foot.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://torrents.io/theme/assets/css/normalize.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='pages-css'  href='https://torrents.io/theme/assets/css/pages.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sbasic-css'  href='https://torrents.io/theme/assets/css/sbasic.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='search-css'  href='https://torrents.io/theme/assets/css/search.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='settings-css'  href='https://torrents.io/theme/assets/css/settings.css?ver=5.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sites-css'  href='https://torrents.io/theme/assets/css/sites.css?ver=5.3.4' type='text/css' media='all' />
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="513861e020484757a09133f5-|49" defer=""></script></body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js" type="513861e020484757a09133f5-text/javascript"></script>
+<script src="https://torrents.io/theme/assets/js/foundation.min.js" type="513861e020484757a09133f5-text/javascript"></script>
+<script src="https://torrents.io/theme/assets/js/foundation.tab.js" type="513861e020484757a09133f5-text/javascript"></script>
+<script src="https://torrents.io/theme/assets/js/jquery-ui.min.js" type="513861e020484757a09133f5-text/javascript"></script>
+<script src="https://torrents.io/theme/assets/js/script.js" type="513861e020484757a09133f5-text/javascript"></script>
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
 udp://103.196.36.31:6969/announce
 udp://104.238.159.144:6969/announce
 udp://104.238.198.186:8000/announce
@@ -220,23 +263,22 @@ udp://178.159.40.252:6969/announce
 udp://178.16.88.250:6969/announce
 udp://178.32.217.118:6969/announce
 udp://178.33.73.26:2710/announce
-udp://181.45.232.209:6969/announceudp://open.stealth.si:80/announce
+udp://181.45.232.209:6969/announce<!DOCTYPE html>
 udp://182.176.139.129:6969/announce
 udp://185.181.60.67:80/announce
 udp://185.183.158.105:6969/announce
 udp://185.185.120.122:6969/announce
-udp://185.234.52.244:6969/announce
 udp://185.244.173.140:6969/announce
 udp://185.5.97.139:8089/announce
 udp://185.8.156.2:6969/announce
 udp://185.83.214.123:6969/announce
 udp://185.83.215.123:6969/announce
 udp://185.86.149.205:1337/announce
-udp://185.92.223.36:6969/announce
 udp://188.165.253.109:1337/announce
 udp://188.166.71.230:6969/announce
 udp://188.40.91.149:6969/announce
 udp://191.101.229.236:1337/announce
+udp://193.142.146.117:7171/announce
 udp://193.150.6.253:6969/announce
 udp://193.34.92.5:80/announce
 udp://194.106.216.222:80/announce
@@ -259,6 +301,7 @@ udp://212.47.227.58:6969/announce
 udp://212.83.181.109:6969/announce
 udp://213.108.129.160:6969/announce
 udp://213.163.67.56:1337/announce
+udp://217.12.210.229:6969/announce
 udp://217.76.183.53:80/announce
 udp://222.217.126.69:6969/announce
 udp://2.59.132.201:8080/announce
@@ -267,6 +310,7 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://[2a04:c44:e00:32e0:4cf:6aff:fe00:aa1]:6969/announce
 udp://31.131.4.62:6969/announce
 udp://31.14.40.30:6969/announce
+udp://35.195.31.74:6969/announce
 udp://37.1.205.89:2710/announce
 udp://37.19.5.155:2710/announce
 udp://37.228.115.250:6969/announce
@@ -279,8 +323,10 @@ udp://46.101.244.237:6969/announce
 udp://46.148.18.250:2710/announce
 udp://46.148.18.254:2710/announce
 udp://46.4.109.148:6969/announce
+udp://47.105.62.206:6969/announce
 udp://47.97.100.153:6969/announce
 udp://47.ip-51-68-199.eu:6969/announce
+udp://49.12.113.1:8866/announce
 udp://51.15.192.176:6969/announce
 udp://51.15.2.221:6969/announce
 udp://51.15.3.74:6969/announce
@@ -306,6 +352,7 @@ udp://62.138.2.239:6969/announce
 udp://62.168.229.166:6969/announce
 udp://62.171.179.41:80/announce
 udp://62.212.85.66:2710/announce
+udp://66.209.59.221:6969/announce
 udp://67.224.119.27:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://74.82.52.209:6969/announce
@@ -319,9 +366,12 @@ udp://91.149.192.31:6969/announce
 udp://91.216.110.52:451/announce
 udp://91.218.230.81:6969/announce
 udp://93.115.23.108:6969/announce
+udp://93.158.213.92:1337/announce
 udp://94.23.183.33:6969/announce
 udp://95.211.168.204:2710/announce
+udp://95.216.193.135:6969/announce
 udp://95.217.161.135:6969/announce
+udp://95.217.25.212:80/announce
 udp://9.rarbg.com:2710/announce
 udp://9.rarbg.me:2710/announce
 udp://9.rarbg.me:2780/announce
@@ -345,7 +395,6 @@ udp://bt2.54new.com:8080/announce
 udp://bt2.archive.org:6969/announce
 udp://bt.firebit.org:2710/announce
 udp://btt.royalquest.ru:2710/announce
-udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://cdn-1.gamecoast.org:6969/announce
@@ -392,7 +441,6 @@ udp://open.demonii.com:1337/announce
 udp://open.lolicon.eu:7777/announce
 udp://open.stealth.si:80/announce
 udp://opentor.org:2710/announce
-udp://opentracker.arg.bz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 udp://opentrackr.org:1337/announce
 udp://p4p.arenabg.com:1337/announce
@@ -420,8 +468,8 @@ udp://t2.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce
 udp://teamspeak.value-wolf.org:6969/announce
 udp://thetracker.org:80/announce
+udp://t.lint2.com:9000/announce
 udp://torrent.tdjs.tech:6969/announce
-udp://tr1.jilangyy.com:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker.0x.tf:6969/announce
 udp://tracker1.itzmx.com:8080/announce
@@ -501,8 +549,12 @@ udp://www.midea123.z-media.com.cn:6969/announce
 udp://www.mvgroup.org:2710/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
-udp://zer0day.to:1337/announceudp://47.105.62.206:6969/announce
+udp://zer0day.to:1337/announceudp://www.midea123.z-media.com.cn:6969/announce
 udp://z.mercax.com:53/announce
+	var ajaxurl = "https://torrents.io/ajax.php";
+	var searchUrl = "https://search.torrents.io";
+	var siteurl = "https://torrents.io";
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 ws://hub.bugout.link:80/announce
 wss://open.tube:443/tracker/socket
 wss://peertube.cpy.re:443/tracker/socket

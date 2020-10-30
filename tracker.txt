@@ -159,7 +159,6 @@ https://tracker.acgnx.se/announce
 https://tracker.anirena.com:80/announce
 https://tracker.bt-hash.com:443/announce
 https://tracker.bt-hash.com/announce
-https://tracker.cryental.dev:443/announce
 https://tracker.cyber-hub.net:443/announce
 https://tracker.cyber-hub.net/announce
 https://tracker.fastdownload.xyz:443/announce
@@ -528,6 +527,7 @@ udp://home.penza.com.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
 udp://ipv4.tracker.harry.lu:80/announce
 udp://ipv4.tracker.harry.lu/announce
+udp://ipv6.tracker.btsync.gq:2710/announce
 udp://ipv6.tracker.harry.lu/announce
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://kanal-4.de:6969/announce
